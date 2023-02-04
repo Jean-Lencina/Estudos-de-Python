@@ -1,0 +1,7 @@
+Help on function fatorial in module __main__:
+
+ffaattoorriiaall(n, show=False)
+    -> Calcula o fatorial de um número:
+    :param n: O numero a ser calculado.
+    :param show: (opcional) Mostrar ou não a conta.
+    :return: O valor do fatorial de um número n.
